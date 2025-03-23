@@ -37,7 +37,7 @@
     "mongodb": "3.6.3",
     "mysql2": "2.2.5",
     "open": "^7.3.0",
-    "openid-client": "^4.2.1",
+    "openid-client": "^4.9.1",
     "pg": "8.2.1",
     "pluralize": "^8.0.0",
     "saslprep": "1.0.3",
