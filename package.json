@@ -38,7 +38,7 @@
     "mysql2": "2.2.5",
     "open": "^7.3.0",
     "openid-client": "^4.2.1",
-    "pg": "8.2.1",
+    "pg": "8.13.3",
     "pluralize": "^8.0.0",
     "saslprep": "1.0.3",
     "sequelize": "5.22.0",
